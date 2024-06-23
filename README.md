@@ -8,3 +8,7 @@ learning C++
 ### keyword counter (stl2)
 - used **set** for the keyword set, and used **map** for counting
 - used **stringstream** as string tokenizer
+
+## (non)deterministic finite automata
+- used **set** and **map** to represent DFA
+- used **set** and **multimap** to represent NFA
