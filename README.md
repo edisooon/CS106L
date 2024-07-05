@@ -12,3 +12,9 @@ learning C++
 ### (non)deterministic finite automata (stl3)
 - used **set** and **map** to represent DFA
 - used **set** and **multimap** to represent NFA
+
+### IsPalindrome and IsWordPalindrome (stl algo)
+- **remove_if(container.begin(), container.end(), predicate_func)**
+- **transform(container.begin(), container.end(), dest_container.begin(), transform_func)**
+- **equal(container.begin(), container.end(), container2.begin())**
+- **istream_iterator<Type>(some_string)** (iterator adapter)
